@@ -1,0 +1,87 @@
+
+
+#video{
+  margin-top: 13%;
+}
+
+.hr-p{
+ border-width: 3px;
+  border-color:   #DDDDDD;
+  opacity: 0.5;
+  ;
+}
+
+/*nav*/
+.navbar-collapse ul{
+	margin-right: 2rem;
+	margin-top: 0rem;
+}
+.navbar-brand img {
+	height: 100%;
+}
+#team-member{
+  text-align: center;
+}
+
+.page-title{
+  text-align: left;
+     color:   #E63F00;
+    font-size: 20px;
+    margin-top: 6%;
+    margin-bottom: -1%;
+    font-weight: bold;
+}
+
+#date{
+  margin-top: 5%;
+  margin-bottom: 10%;
+
+}
+
+
+.picture-word{
+  color:  #E63F00;
+}
+
+
+
+/*橫列2*/
+section#intro-header {
+  background-image: url(../picture/land.jpg);
+  background-size: cover;
+}
+
+section#intro-header .wrap-headline {
+  position: relative;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+section#intro-header h1,
+section#intro-header h2 {
+  color: #FFF;
+}
+
+section#intro-header h2 {
+  font-size: 1.5rem;
+}
+
+section#intro-header hr {
+  width: 10%;
+}
+
+/*橫列 3 與橫列 4*/
+section#about img {
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+
+}
+
+section#about h3 {
+  margin-top: 10rem;
+}
+
+
+#date td {
+  text-overflow:ellipsis
+}
